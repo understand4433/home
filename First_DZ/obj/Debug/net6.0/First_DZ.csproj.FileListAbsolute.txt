@@ -1,0 +1,15 @@
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\bin\Debug\net6.0\First_DZ.exe
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\bin\Debug\net6.0\First_DZ.deps.json
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\bin\Debug\net6.0\First_DZ.runtimeconfig.json
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\bin\Debug\net6.0\First_DZ.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\bin\Debug\net6.0\First_DZ.pdb
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.csproj.AssemblyReference.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.AssemblyInfoInputs.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.AssemblyInfo.cs
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.csproj.CoreCompileInputs.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\refint\First_DZ.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.pdb
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\First_DZ.genruntimeconfig.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\26.10.2023\First_DZ\obj\Debug\net6.0\ref\First_DZ.dll
